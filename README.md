@@ -1,2 +1,2 @@
 # PAlgs
-Algorithms Python
+Algorithms using Python
